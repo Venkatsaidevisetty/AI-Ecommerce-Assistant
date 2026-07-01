@@ -1,0 +1,72 @@
+.modal-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(20, 17, 15, 0.75);
+  backdrop-filter: blur(2px);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 9999;
+  padding: 20px;
+}
+
+.modal {
+  background: var(--paper);
+  color: var(--text-on-paper);
+  width: 480px;
+  max-width: 100%;
+  padding: 32px;
+  border-radius: 8px;
+  position: relative;
+  box-shadow: 0 30px 60px -20px rgba(0, 0, 0, 0.6);
+}
+
+.modal h2 {
+  font-size: 24px;
+  margin-bottom: 14px;
+}
+
+.modal p {
+  font-size: 14px;
+  line-height: 1.6;
+  color: var(--text-on-paper-dim);
+  margin-bottom: 8px;
+}
+
+.modal p strong {
+  color: var(--text-on-paper);
+  font-family: var(--mono);
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  margin-right: 6px;
+}
+
+.modal-image {
+  width: 100%;
+  height: 260px;
+  object-fit: cover;
+  border-radius: 6px;
+  margin-bottom: 20px;
+  border: 1px dashed var(--paper-line);
+}
+
+.close-btn {
+  position: absolute;
+  right: 16px;
+  top: 16px;
+  border: none;
+  background: var(--ink);
+  color: var(--paper);
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  cursor: pointer;
+  font-size: 14px;
+  transition: 0.2s;
+}
+
+.close-btn:hover {
+  background: var(--amber-deep);
+  color: var(--ink);
+}

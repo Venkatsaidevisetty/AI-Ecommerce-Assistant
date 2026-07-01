@@ -1,0 +1,802 @@
+[
+  {
+    "name": "Dell XPS 15",
+    "brand": "Dell",
+    "category": "Laptop",
+    "price": 1499.99,
+    "description": "Premium 15-inch Windows laptop for professionals.",
+    "imageUrl": "/images/products/dell-xps-15.jpg"
+  },
+  {
+    "name": "Dell Inspiron 14",
+    "brand": "Dell",
+    "category": "Laptop",
+    "price": 749.99,
+    "description": "Reliable everyday laptop for students and office work.",
+    "imageUrl": "/images/products/dell-inspiron-14.jpg"
+  },
+  {
+    "name": "Dell Alienware m16",
+    "brand": "Dell",
+    "category": "Laptop",
+    "price": 1899.99,
+    "description": "High-performance gaming laptop with powerful graphics.",
+    "imageUrl": "/images/products/dell-alienware-m16.jpg"
+  },
+  {
+    "name": "Apple MacBook Air M4",
+    "brand": "Apple",
+    "category": "Laptop",
+    "price": 1199.99,
+    "description": "Thin and lightweight Apple laptop for productivity.",
+    "imageUrl": "/images/products/apple-macbook-air-m4.jpg"
+  },
+  {
+    "name": "Apple MacBook Pro 14",
+    "brand": "Apple",
+    "category": "Laptop",
+    "price": 1999.99,
+    "description": "Pro-level Apple laptop for creators and developers.",
+    "imageUrl": "/images/products/apple-macbook-pro-14.jpg"
+  },
+  {
+    "name": "HP Spectre x360",
+    "brand": "HP",
+    "category": "Laptop",
+    "price": 1299.99,
+    "description": "Convertible premium laptop with touchscreen display.",
+    "imageUrl": "/images/products/hp-spectre-x360.jpg"
+  },
+  {
+    "name": "HP Pavilion 15",
+    "brand": "HP",
+    "category": "Laptop",
+    "price": 699.99,
+    "description": "Affordable laptop for school, work, and entertainment.",
+    "imageUrl": "/images/products/hp-pavilion-15.jpg"
+  },
+  {
+    "name": "Lenovo ThinkPad X1 Carbon",
+    "brand": "Lenovo",
+    "category": "Laptop",
+    "price": 1699.99,
+    "description": "Business laptop with durable design and excellent keyboard.",
+    "imageUrl": "/images/products/lenovo-thinkpad-x1-carbon.jpg"
+  },
+  {
+    "name": "Lenovo IdeaPad Slim 5",
+    "brand": "Lenovo",
+    "category": "Laptop",
+    "price": 799.99,
+    "description": "Slim productivity laptop with strong battery life.",
+    "imageUrl": "/images/products/lenovo-ideapad-slim-5.jpg"
+  },
+  {
+    "name": "ASUS ROG Strix G16",
+    "brand": "ASUS",
+    "category": "Laptop",
+    "price": 1399.99,
+    "description": "Gaming laptop with high refresh display and strong performance.",
+    "imageUrl": "/images/products/asus-rog-strix-g16.jpg"
+  },
+  {
+    "name": "ASUS Zenbook 14 OLED",
+    "brand": "ASUS",
+    "category": "Laptop",
+    "price": 1099.99,
+    "description": "Portable OLED laptop for productivity and media.",
+    "imageUrl": "/images/products/asus-zenbook-14-oled.jpg"
+  },
+  {
+    "name": "Acer Nitro 5",
+    "brand": "Acer",
+    "category": "Laptop",
+    "price": 899.99,
+    "description": "Budget gaming laptop for 1080p gaming.",
+    "imageUrl": "/images/products/acer-nitro-5.jpg"
+  },
+  {
+    "name": "Acer Swift Go 14",
+    "brand": "Acer",
+    "category": "Laptop",
+    "price": 799.99,
+    "description": "Lightweight laptop for travel and productivity.",
+    "imageUrl": "/images/products/acer-swift-go-14.jpg"
+  },
+  {
+    "name": "Microsoft Surface Laptop 7",
+    "brand": "Microsoft",
+    "category": "Laptop",
+    "price": 1299.99,
+    "description": "Premium Windows laptop with clean design.",
+    "imageUrl": "/images/products/microsoft-surface-laptop-7.jpg"
+  },
+  {
+    "name": "Razer Blade 15",
+    "brand": "Razer",
+    "category": "Laptop",
+    "price": 2199.99,
+    "description": "Premium gaming laptop with powerful GPU.",
+    "imageUrl": "/images/products/razer-blade-15.jpg"
+  },
+  {
+    "name": "MSI Katana 15",
+    "brand": "MSI",
+    "category": "Laptop",
+    "price": 999.99,
+    "description": "Gaming laptop with RTX graphics for serious gamers.",
+    "imageUrl": "/images/products/msi-katana-15.jpg"
+  },
+  {
+    "name": "Samsung Galaxy Book4 Pro",
+    "brand": "Samsung",
+    "category": "Laptop",
+    "price": 1449.99,
+    "description": "Slim laptop with AMOLED display and Galaxy ecosystem features.",
+    "imageUrl": "/images/products/samsung-galaxy-book4-pro.jpg"
+  },
+  {
+    "name": "LG Gram 16",
+    "brand": "LG",
+    "category": "Laptop",
+    "price": 1399.99,
+    "description": "Ultra-light 16-inch laptop with long battery life.",
+    "imageUrl": "/images/products/lg-gram-16.jpg"
+  },
+  {
+    "name": "Gigabyte Aero 16",
+    "brand": "Gigabyte",
+    "category": "Laptop",
+    "price": 1799.99,
+    "description": "Creator laptop designed for video and design work.",
+    "imageUrl": "/images/products/gigabyte-aero-16.jpg"
+  },
+  {
+    "name": "Framework Laptop 13",
+    "brand": "Framework",
+    "category": "Laptop",
+    "price": 999.99,
+    "description": "Repairable and upgradeable modular laptop.",
+    "imageUrl": "/images/products/framework-laptop-13.jpg"
+  },
+  {
+    "name": "Apple iPhone 16 Pro",
+    "brand": "Apple",
+    "category": "Phone",
+    "price": 1199.99,
+    "description": "Flagship Apple smartphone with premium performance.",
+    "imageUrl": "/images/products/apple-iphone-16-pro.jpg"
+  },
+  {
+    "name": "Apple iPhone 16",
+    "brand": "Apple",
+    "category": "Phone",
+    "price": 899.99,
+    "description": "Latest Apple smartphone with excellent camera and battery life.",
+    "imageUrl": "/images/products/apple-iphone-16.jpg"
+  },
+  {
+    "name": "Apple iPhone 15",
+    "brand": "Apple",
+    "category": "Phone",
+    "price": 799.99,
+    "description": "Powerful iPhone with reliable performance.",
+    "imageUrl": "/images/products/apple-iphone-15.jpg"
+  },
+  {
+    "name": "Samsung Galaxy S25",
+    "brand": "Samsung",
+    "category": "Phone",
+    "price": 899.99,
+    "description": "Android flagship smartphone with powerful camera.",
+    "imageUrl": "/images/products/samsung-galaxy-s25.jpg"
+  },
+  {
+    "name": "Samsung Galaxy S25 Ultra",
+    "brand": "Samsung",
+    "category": "Phone",
+    "price": 1299.99,
+    "description": "Premium Android phone with advanced camera and S Pen.",
+    "imageUrl": "/images/products/samsung-galaxy-s25-ultra.jpg"
+  },
+  {
+    "name": "Samsung Galaxy A55",
+    "brand": "Samsung",
+    "category": "Phone",
+    "price": 449.99,
+    "description": "Midrange Samsung phone with great display.",
+    "imageUrl": "/images/products/samsung-galaxy-a55.jpg"
+  },
+  {
+    "name": "Google Pixel 9 Pro",
+    "brand": "Google",
+    "category": "Phone",
+    "price": 999.99,
+    "description": "AI-powered Google phone with excellent photography.",
+    "imageUrl": "/images/products/google-pixel-9-pro.jpg"
+  },
+  {
+    "name": "Google Pixel 9",
+    "brand": "Google",
+    "category": "Phone",
+    "price": 799.99,
+    "description": "Clean Android phone with smart AI features.",
+    "imageUrl": "/images/products/google-pixel-9.jpg"
+  },
+  {
+    "name": "OnePlus OnePlus 13",
+    "brand": "OnePlus",
+    "category": "Phone",
+    "price": 899.99,
+    "description": "Fast Android phone with smooth performance.",
+    "imageUrl": "/images/products/oneplus-oneplus-13.jpg"
+  },
+  {
+    "name": "OnePlus Nord 4",
+    "brand": "OnePlus",
+    "category": "Phone",
+    "price": 499.99,
+    "description": "Affordable phone with strong battery life.",
+    "imageUrl": "/images/products/oneplus-nord-4.jpg"
+  },
+  {
+    "name": "Motorola Razr Plus",
+    "brand": "Motorola",
+    "category": "Phone",
+    "price": 999.99,
+    "description": "Foldable phone with compact design.",
+    "imageUrl": "/images/products/motorola-razr-plus.jpg"
+  },
+  {
+    "name": "Motorola Edge 50",
+    "brand": "Motorola",
+    "category": "Phone",
+    "price": 599.99,
+    "description": "Stylish Android phone with curved display.",
+    "imageUrl": "/images/products/motorola-edge-50.jpg"
+  },
+  {
+    "name": "Sony Xperia 1 VI",
+    "brand": "Sony",
+    "category": "Phone",
+    "price": 1199.99,
+    "description": "Premium phone for media and photography enthusiasts.",
+    "imageUrl": "/images/products/sony-xperia-1-vi.jpg"
+  },
+  {
+    "name": "Nothing Phone 2",
+    "brand": "Nothing",
+    "category": "Phone",
+    "price": 649.99,
+    "description": "Unique transparent-design Android smartphone.",
+    "imageUrl": "/images/products/nothing-phone-2.jpg"
+  },
+  {
+    "name": "Xiaomi 14 Ultra",
+    "brand": "Xiaomi",
+    "category": "Phone",
+    "price": 1099.99,
+    "description": "Camera-focused Android flagship.",
+    "imageUrl": "/images/products/xiaomi-14-ultra.jpg"
+  },
+  {
+    "name": "ASUS ROG Phone 8",
+    "brand": "ASUS",
+    "category": "Phone",
+    "price": 1099.99,
+    "description": "Gaming phone with high refresh display.",
+    "imageUrl": "/images/products/asus-rog-phone-8.jpg"
+  },
+  {
+    "name": "Nokia G60",
+    "brand": "Nokia",
+    "category": "Phone",
+    "price": 299.99,
+    "description": "Affordable phone for everyday use.",
+    "imageUrl": "/images/products/nokia-g60.jpg"
+  },
+  {
+    "name": "Samsung Galaxy Z Flip 6",
+    "brand": "Samsung",
+    "category": "Phone",
+    "price": 1099.99,
+    "description": "Compact foldable Samsung smartphone.",
+    "imageUrl": "/images/products/samsung-galaxy-z-flip-6.jpg"
+  },
+  {
+    "name": "Samsung Galaxy Z Fold 6",
+    "brand": "Samsung",
+    "category": "Phone",
+    "price": 1799.99,
+    "description": "Large-screen foldable phone for multitasking.",
+    "imageUrl": "/images/products/samsung-galaxy-z-fold-6.jpg"
+  },
+  {
+    "name": "Google Pixel 8a",
+    "brand": "Google",
+    "category": "Phone",
+    "price": 499.99,
+    "description": "Affordable Pixel phone with AI camera features.",
+    "imageUrl": "/images/products/google-pixel-8a.jpg"
+  },
+  {
+    "name": "Apple Apple Watch Series 10",
+    "brand": "Apple",
+    "category": "Smart Watch",
+    "price": 399.99,
+    "description": "Smartwatch with health tracking and fitness features.",
+    "imageUrl": "/images/products/apple-apple-watch-series-10.jpg"
+  },
+  {
+    "name": "Apple Apple Watch Ultra 2",
+    "brand": "Apple",
+    "category": "Smart Watch",
+    "price": 799.99,
+    "description": "Rugged Apple watch for outdoor and fitness users.",
+    "imageUrl": "/images/products/apple-apple-watch-ultra-2.jpg"
+  },
+  {
+    "name": "Samsung Galaxy Watch 7",
+    "brand": "Samsung",
+    "category": "Smart Watch",
+    "price": 299.99,
+    "description": "Android smartwatch with wellness tracking.",
+    "imageUrl": "/images/products/samsung-galaxy-watch-7.jpg"
+  },
+  {
+    "name": "Samsung Galaxy Watch Ultra",
+    "brand": "Samsung",
+    "category": "Smart Watch",
+    "price": 649.99,
+    "description": "Durable Samsung smartwatch for active users.",
+    "imageUrl": "/images/products/samsung-galaxy-watch-ultra.jpg"
+  },
+  {
+    "name": "Garmin Venu 3",
+    "brand": "Garmin",
+    "category": "Smart Watch",
+    "price": 449.99,
+    "description": "Fitness smartwatch with long battery life.",
+    "imageUrl": "/images/products/garmin-venu-3.jpg"
+  },
+  {
+    "name": "Garmin Forerunner 965",
+    "brand": "Garmin",
+    "category": "Smart Watch",
+    "price": 599.99,
+    "description": "Running watch with advanced training metrics.",
+    "imageUrl": "/images/products/garmin-forerunner-965.jpg"
+  },
+  {
+    "name": "Fitbit Sense 2",
+    "brand": "Fitbit",
+    "category": "Smart Watch",
+    "price": 249.99,
+    "description": "Health-focused smartwatch with stress tracking.",
+    "imageUrl": "/images/products/fitbit-sense-2.jpg"
+  },
+  {
+    "name": "Google Pixel Watch 3",
+    "brand": "Google",
+    "category": "Smart Watch",
+    "price": 349.99,
+    "description": "Google smartwatch with Fitbit integration.",
+    "imageUrl": "/images/products/google-pixel-watch-3.jpg"
+  },
+  {
+    "name": "Amazfit GTR 4",
+    "brand": "Amazfit",
+    "category": "Smart Watch",
+    "price": 199.99,
+    "description": "Affordable smartwatch with long battery life.",
+    "imageUrl": "/images/products/amazfit-gtr-4.jpg"
+  },
+  {
+    "name": "Withings ScanWatch 2",
+    "brand": "Withings",
+    "category": "Smart Watch",
+    "price": 349.99,
+    "description": "Hybrid smartwatch with health monitoring.",
+    "imageUrl": "/images/products/withings-scanwatch-2.jpg"
+  },
+  {
+    "name": "Sony WH-1000XM5",
+    "brand": "Sony",
+    "category": "Headphones",
+    "price": 399.99,
+    "description": "Wireless noise cancelling headphones.",
+    "imageUrl": "/images/products/sony-wh-1000xm5.jpg"
+  },
+  {
+    "name": "Sony WF-1000XM5",
+    "brand": "Sony",
+    "category": "Headphones",
+    "price": 299.99,
+    "description": "Premium noise cancelling wireless earbuds.",
+    "imageUrl": "/images/products/sony-wf-1000xm5.jpg"
+  },
+  {
+    "name": "Bose QuietComfort Ultra",
+    "brand": "Bose",
+    "category": "Headphones",
+    "price": 429.99,
+    "description": "Premium headphones with immersive audio.",
+    "imageUrl": "/images/products/bose-quietcomfort-ultra.jpg"
+  },
+  {
+    "name": "Bose QuietComfort Earbuds",
+    "brand": "Bose",
+    "category": "Headphones",
+    "price": 299.99,
+    "description": "Comfortable wireless earbuds with noise cancellation.",
+    "imageUrl": "/images/products/bose-quietcomfort-earbuds.jpg"
+  },
+  {
+    "name": "Apple AirPods Pro 2",
+    "brand": "Apple",
+    "category": "Headphones",
+    "price": 249.99,
+    "description": "Apple earbuds with active noise cancellation.",
+    "imageUrl": "/images/products/apple-airpods-pro-2.jpg"
+  },
+  {
+    "name": "Apple AirPods Max",
+    "brand": "Apple",
+    "category": "Headphones",
+    "price": 549.99,
+    "description": "Premium over-ear headphones with spatial audio.",
+    "imageUrl": "/images/products/apple-airpods-max.jpg"
+  },
+  {
+    "name": "JBL Live 770NC",
+    "brand": "JBL",
+    "category": "Headphones",
+    "price": 199.99,
+    "description": "Affordable wireless headphones with ANC.",
+    "imageUrl": "/images/products/jbl-live-770nc.jpg"
+  },
+  {
+    "name": "Sennheiser Momentum 4",
+    "brand": "Sennheiser",
+    "category": "Headphones",
+    "price": 349.99,
+    "description": "High-quality wireless headphones with excellent sound.",
+    "imageUrl": "/images/products/sennheiser-momentum-4.jpg"
+  },
+  {
+    "name": "Beats Studio Pro",
+    "brand": "Beats",
+    "category": "Headphones",
+    "price": 349.99,
+    "description": "Stylish headphones with Apple ecosystem support.",
+    "imageUrl": "/images/products/beats-studio-pro.jpg"
+  },
+  {
+    "name": "Anker Soundcore Space One",
+    "brand": "Anker",
+    "category": "Headphones",
+    "price": 99.99,
+    "description": "Budget noise cancelling headphones.",
+    "imageUrl": "/images/products/anker-soundcore-space-one.jpg"
+  },
+  {
+    "name": "LG UltraGear 27",
+    "brand": "LG",
+    "category": "Monitor",
+    "price": 349.99,
+    "description": "27-inch gaming monitor with high refresh rate.",
+    "imageUrl": "/images/products/lg-ultragear-27.jpg"
+  },
+  {
+    "name": "Dell UltraSharp 27",
+    "brand": "Dell",
+    "category": "Monitor",
+    "price": 429.99,
+    "description": "Professional monitor with accurate colors.",
+    "imageUrl": "/images/products/dell-ultrasharp-27.jpg"
+  },
+  {
+    "name": "Samsung Odyssey G7",
+    "brand": "Samsung",
+    "category": "Monitor",
+    "price": 599.99,
+    "description": "Curved gaming monitor with fast refresh rate.",
+    "imageUrl": "/images/products/samsung-odyssey-g7.jpg"
+  },
+  {
+    "name": "ASUS ProArt 27",
+    "brand": "ASUS",
+    "category": "Monitor",
+    "price": 499.99,
+    "description": "Color-accurate monitor for creators.",
+    "imageUrl": "/images/products/asus-proart-27.jpg"
+  },
+  {
+    "name": "Acer Predator XB3",
+    "brand": "Acer",
+    "category": "Monitor",
+    "price": 699.99,
+    "description": "Premium gaming monitor for competitive players.",
+    "imageUrl": "/images/products/acer-predator-xb3.jpg"
+  },
+  {
+    "name": "BenQ PD2705U",
+    "brand": "BenQ",
+    "category": "Monitor",
+    "price": 549.99,
+    "description": "4K designer monitor with excellent color accuracy.",
+    "imageUrl": "/images/products/benq-pd2705u.jpg"
+  },
+  {
+    "name": "HP M27fw",
+    "brand": "HP",
+    "category": "Monitor",
+    "price": 249.99,
+    "description": "Affordable 27-inch monitor for home office.",
+    "imageUrl": "/images/products/hp-m27fw.jpg"
+  },
+  {
+    "name": "Lenovo ThinkVision P27",
+    "brand": "Lenovo",
+    "category": "Monitor",
+    "price": 399.99,
+    "description": "Business monitor with sharp display.",
+    "imageUrl": "/images/products/lenovo-thinkvision-p27.jpg"
+  },
+  {
+    "name": "MSI Optix MAG",
+    "brand": "MSI",
+    "category": "Monitor",
+    "price": 299.99,
+    "description": "Gaming monitor with smooth visuals.",
+    "imageUrl": "/images/products/msi-optix-mag.jpg"
+  },
+  {
+    "name": "Gigabyte M32U",
+    "brand": "Gigabyte",
+    "category": "Monitor",
+    "price": 699.99,
+    "description": "32-inch 4K gaming monitor with HDMI 2.1.",
+    "imageUrl": "/images/products/gigabyte-m32u.jpg"
+  },
+  {
+    "name": "Logitech MX Master 3S",
+    "brand": "Logitech",
+    "category": "Accessory",
+    "price": 99.99,
+    "description": "Ergonomic wireless mouse for productivity.",
+    "imageUrl": "/images/products/logitech-mx-master-3s.jpg"
+  },
+  {
+    "name": "Logitech MX Keys S",
+    "brand": "Logitech",
+    "category": "Accessory",
+    "price": 109.99,
+    "description": "Premium wireless keyboard for professionals.",
+    "imageUrl": "/images/products/logitech-mx-keys-s.jpg"
+  },
+  {
+    "name": "Apple Magic Keyboard",
+    "brand": "Apple",
+    "category": "Accessory",
+    "price": 129.99,
+    "description": "Slim Apple keyboard for Mac users.",
+    "imageUrl": "/images/products/apple-magic-keyboard.jpg"
+  },
+  {
+    "name": "Apple Magic Mouse",
+    "brand": "Apple",
+    "category": "Accessory",
+    "price": 79.99,
+    "description": "Wireless multi-touch mouse for Mac.",
+    "imageUrl": "/images/products/apple-magic-mouse.jpg"
+  },
+  {
+    "name": "Anker USB-C Hub 8-in-1",
+    "brand": "Anker",
+    "category": "Accessory",
+    "price": 69.99,
+    "description": "Multiport USB-C hub for laptops.",
+    "imageUrl": "/images/products/anker-usb-c-hub-8-in-1.jpg"
+  },
+  {
+    "name": "Samsung T7 Portable SSD 1TB",
+    "brand": "Samsung",
+    "category": "Accessory",
+    "price": 109.99,
+    "description": "Fast external SSD for storage and backups.",
+    "imageUrl": "/images/products/samsung-t7-portable-ssd-1tb.jpg"
+  },
+  {
+    "name": "SanDisk Extreme Portable SSD 2TB",
+    "brand": "SanDisk",
+    "category": "Accessory",
+    "price": 179.99,
+    "description": "Rugged portable SSD for creators.",
+    "imageUrl": "/images/products/sandisk-extreme-portable-ssd-2tb.jpg"
+  },
+  {
+    "name": "Belkin MagSafe Charger",
+    "brand": "Belkin",
+    "category": "Accessory",
+    "price": 39.99,
+    "description": "Magnetic wireless charger for iPhone.",
+    "imageUrl": "/images/products/belkin-magsafe-charger.jpg"
+  },
+  {
+    "name": "Razer BlackWidow V4",
+    "brand": "Razer",
+    "category": "Accessory",
+    "price": 169.99,
+    "description": "Mechanical gaming keyboard with RGB.",
+    "imageUrl": "/images/products/razer-blackwidow-v4.jpg"
+  },
+  {
+    "name": "Corsair K70 RGB Pro",
+    "brand": "Corsair",
+    "category": "Accessory",
+    "price": 159.99,
+    "description": "Premium mechanical keyboard for gaming.",
+    "imageUrl": "/images/products/corsair-k70-rgb-pro.jpg"
+  },
+  {
+    "name": "Canon EOS R50",
+    "brand": "Canon",
+    "category": "Camera",
+    "price": 679.99,
+    "description": "Mirrorless camera for creators and beginners.",
+    "imageUrl": "/images/products/canon-eos-r50.jpg"
+  },
+  {
+    "name": "Canon EOS R6 Mark II",
+    "brand": "Canon",
+    "category": "Camera",
+    "price": 2499.99,
+    "description": "Full-frame mirrorless camera for professionals.",
+    "imageUrl": "/images/products/canon-eos-r6-mark-ii.jpg"
+  },
+  {
+    "name": "Sony Alpha A7 IV",
+    "brand": "Sony",
+    "category": "Camera",
+    "price": 2499.99,
+    "description": "Full-frame hybrid camera for photo and video.",
+    "imageUrl": "/images/products/sony-alpha-a7-iv.jpg"
+  },
+  {
+    "name": "Sony ZV-E10",
+    "brand": "Sony",
+    "category": "Camera",
+    "price": 699.99,
+    "description": "Creator-focused camera for vlogging.",
+    "imageUrl": "/images/products/sony-zv-e10.jpg"
+  },
+  {
+    "name": "Nikon Z6 II",
+    "brand": "Nikon",
+    "category": "Camera",
+    "price": 1999.99,
+    "description": "Full-frame mirrorless camera with strong performance.",
+    "imageUrl": "/images/products/nikon-z6-ii.jpg"
+  },
+  {
+    "name": "Nikon Z50",
+    "brand": "Nikon",
+    "category": "Camera",
+    "price": 859.99,
+    "description": "Compact mirrorless camera for travel.",
+    "imageUrl": "/images/products/nikon-z50.jpg"
+  },
+  {
+    "name": "Fujifilm X-T5",
+    "brand": "Fujifilm",
+    "category": "Camera",
+    "price": 1699.99,
+    "description": "Retro-style camera with excellent image quality.",
+    "imageUrl": "/images/products/fujifilm-x-t5.jpg"
+  },
+  {
+    "name": "Panasonic Lumix GH6",
+    "brand": "Panasonic",
+    "category": "Camera",
+    "price": 1999.99,
+    "description": "Video-focused mirrorless camera.",
+    "imageUrl": "/images/products/panasonic-lumix-gh6.jpg"
+  },
+  {
+    "name": "GoPro Hero 13 Black",
+    "brand": "GoPro",
+    "category": "Camera",
+    "price": 399.99,
+    "description": "Action camera for sports and travel.",
+    "imageUrl": "/images/products/gopro-hero-13-black.jpg"
+  },
+  {
+    "name": "DJI Osmo Pocket 3",
+    "brand": "DJI",
+    "category": "Camera",
+    "price": 519.99,
+    "description": "Compact stabilized camera for video creators.",
+    "imageUrl": "/images/products/dji-osmo-pocket-3.jpg"
+  },
+  {
+    "name": "Sony PlayStation 5",
+    "brand": "Sony",
+    "category": "Gaming",
+    "price": 499.99,
+    "description": "Next-generation gaming console with fast SSD.",
+    "imageUrl": "/images/products/sony-playstation-5.jpg"
+  },
+  {
+    "name": "Microsoft Xbox Series X",
+    "brand": "Microsoft",
+    "category": "Gaming",
+    "price": 499.99,
+    "description": "Powerful Xbox console for 4K gaming.",
+    "imageUrl": "/images/products/microsoft-xbox-series-x.jpg"
+  },
+  {
+    "name": "Nintendo Switch OLED",
+    "brand": "Nintendo",
+    "category": "Gaming",
+    "price": 349.99,
+    "description": "Hybrid gaming console with OLED display.",
+    "imageUrl": "/images/products/nintendo-switch-oled.jpg"
+  },
+  {
+    "name": "Valve Steam Deck OLED",
+    "brand": "Valve",
+    "category": "Gaming",
+    "price": 549.99,
+    "description": "Handheld PC gaming device with OLED screen.",
+    "imageUrl": "/images/products/valve-steam-deck-oled.jpg"
+  },
+  {
+    "name": "Sony DualSense Controller",
+    "brand": "Sony",
+    "category": "Gaming",
+    "price": 69.99,
+    "description": "Wireless controller for PlayStation 5.",
+    "imageUrl": "/images/products/sony-dualsense-controller.jpg"
+  },
+  {
+    "name": "Microsoft Xbox Wireless Controller",
+    "brand": "Microsoft",
+    "category": "Gaming",
+    "price": 64.99,
+    "description": "Wireless controller for Xbox and PC.",
+    "imageUrl": "/images/products/microsoft-xbox-wireless-controller.jpg"
+  },
+  {
+    "name": "Razer Basilisk V3 Pro",
+    "brand": "Razer",
+    "category": "Gaming",
+    "price": 159.99,
+    "description": "Wireless gaming mouse with customizable controls.",
+    "imageUrl": "/images/products/razer-basilisk-v3-pro.jpg"
+  },
+  {
+    "name": "SteelSeries Arctis Nova 7",
+    "brand": "SteelSeries",
+    "category": "Gaming",
+    "price": 179.99,
+    "description": "Wireless gaming headset with clear audio.",
+    "imageUrl": "/images/products/steelseries-arctis-nova-7.jpg"
+  },
+  {
+    "name": "Meta Quest 3",
+    "brand": "Meta",
+    "category": "Gaming",
+    "price": 499.99,
+    "description": "VR headset for gaming and mixed reality.",
+    "imageUrl": "/images/products/meta-quest-3.jpg"
+  },
+  {
+    "name": "Logitech G Pro X Superlight",
+    "brand": "Logitech",
+    "category": "Gaming",
+    "price": 149.99,
+    "description": "Lightweight wireless gaming mouse.",
+    "imageUrl": "/images/products/logitech-g-pro-x-superlight.jpg"
+  }
+]

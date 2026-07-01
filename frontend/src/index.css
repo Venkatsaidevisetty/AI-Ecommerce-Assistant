@@ -1,0 +1,67 @@
+:root {
+  /* -- Palette: warm ink + paper catalog, not another navy gradient -- */
+  --ink: #14110f;
+  --ink-soft: #201b17;
+  --ink-line: #37312a;
+
+  --paper: #faf6ee;
+  --paper-dim: #f0ead9;
+  --paper-line: #ded6c2;
+
+  --amber: #ff7a3d;
+  --amber-deep: #e2632a;
+  --moss: #5b8266;
+  --moss-deep: #46684f;
+
+  --text-on-ink: #f3ede1;
+  --text-on-ink-dim: #b7ab97;
+  --text-on-paper: #24201b;
+  --text-on-paper-dim: #6b6152;
+
+  --display: "Fraunces", Georgia, serif;
+  --sans: "Inter", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --mono: "IBM Plex Mono", ui-monospace, Menlo, monospace;
+
+  font: 16px/1.5 var(--sans);
+  color-scheme: dark;
+  color: var(--text-on-ink);
+  background: var(--ink);
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+h1, h2, h3, h4 {
+  font-family: var(--display);
+  font-weight: 600;
+  margin: 0;
+}
+
+p {
+  margin: 0;
+}
+
+button {
+  font-family: var(--sans);
+}
+
+:focus-visible {
+  outline: 2px solid var(--amber);
+  outline-offset: 3px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.001ms !important;
+    transition-duration: 0.001ms !important;
+  }
+}
