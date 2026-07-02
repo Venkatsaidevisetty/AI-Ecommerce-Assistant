@@ -14,7 +14,9 @@ An AI-powered full-stack e-commerce application that enables users to search pro
 
 ### Search Results
 
-![Search](screenshots/search.png)
+![Search](screenshots/search-1.png)
+![Search](screenshots/search-2.png)
+
 
 ### Shopping Cart
 
